@@ -1,8 +1,8 @@
-# Requirements Document: AI for Bharath - Insurance Tracking Application
+# Requirements Document: Insurance AI - Insurance Tracking Application
 
 ## Introduction
 
-AI for Bharath is an AI-powered insurance tracking application designed to help users understand, manage, and track their insurance policies in one centralized platform. The system leverages artificial intelligence and machine learning to solve critical problems that users face when dealing with insurance:
+Insurance AI is an AI-powered insurance tracking application designed to help users understand, manage, and track their insurance policies in one centralized platform. The system leverages artificial intelligence and machine learning to solve critical problems that users face when dealing with insurance:
 
 **Problems AI Solves:**
 
@@ -26,7 +26,7 @@ The application serves as a comprehensive, AI-driven insurance management soluti
 
 ## Glossary
 
-- **System**: The AI for Bharath insurance tracking application
+- **System**: The Insurance AI insurance tracking application
 - **User**: An individual who owns or manages insurance policies
 - **Policy**: An insurance contract with coverage details, terms, and conditions
 - **Dependent**: A family member or individual covered under a user's insurance policy
@@ -348,3 +348,4 @@ The application serves as a comprehensive, AI-driven insurance management soluti
 7. THE System SHALL highlight potential cost savings opportunities (e.g., bundling policies, increasing deductibles)
 8. THE AI SHALL generate reports in plain language accessible to users with varying literacy levels
 9. THE System SHALL support export of AI-generated insights to PDF with visualizations and recommendations
+
