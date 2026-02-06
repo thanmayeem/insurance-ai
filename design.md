@@ -1,8 +1,8 @@
-# Design Document: AI for Bharath - Insurance Tracking Application
+# Design Document: Insurance AI - Insurance Tracking Application
 
 ## Overview
 
-AI for Bharath is an AI-powered insurance tracking application built on a modern, scalable microservices architecture. The system leverages artificial intelligence and machine learning to provide users with intelligent insights, personalized recommendations, and simplified explanations of complex insurance concepts. The platform serves as a centralized hub to manage insurance policies, track dependents, understand coverage details, and monitor payments with AI-driven assistance at every step.
+Insurance AI is an AI-powered insurance tracking application built on a modern, scalable microservices architecture. The system leverages artificial intelligence and machine learning to provide users with intelligent insights, personalized recommendations, and simplified explanations of complex insurance concepts. The platform serves as a centralized hub to manage insurance policies, track dependents, understand coverage details, and monitor payments with AI-driven assistance at every step.
 
 ### Key Design Goals
 
@@ -1093,4 +1093,5 @@ CREATE INDEX idx_audit_logs_action ON audit_logs(action);
    - Daily automated backups with 30-day retention
    - Point-in-time recovery capability
    - Cross-region backup replication for disaster recovery
+
 
